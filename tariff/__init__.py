@@ -4,9 +4,7 @@
 
 from functools import cache
 from openai import OpenAI
-from pydantic import BaseModel
 import builtins
-import importlib
 import json
 import os
 import random
